@@ -1,3 +1,9 @@
 # Security-Analyst-Udacity: 
-First Project: Planing for Security Controls 
-Second Project: Insecure Juice Shop Report 
+Contains all the projects of Security Analyst Nanodegree.
+
+List of projects:
+
+Planning for security controls
+Insecure Juice Shop
+Juice Shope Vulnerability Report
+Intrusion Detection and Response
